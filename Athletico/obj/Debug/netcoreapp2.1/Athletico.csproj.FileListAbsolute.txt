@@ -1,0 +1,16 @@
+C:\Users\1800190\source\repos\Athletico\Athletico\bin\Debug\netcoreapp2.1\Athletico.deps.json
+C:\Users\1800190\source\repos\Athletico\Athletico\bin\Debug\netcoreapp2.1\Athletico.runtimeconfig.json
+C:\Users\1800190\source\repos\Athletico\Athletico\bin\Debug\netcoreapp2.1\Athletico.runtimeconfig.dev.json
+C:\Users\1800190\source\repos\Athletico\Athletico\bin\Debug\netcoreapp2.1\Athletico.dll
+C:\Users\1800190\source\repos\Athletico\Athletico\obj\Debug\netcoreapp2.1\Athletico.csprojAssemblyReference.cache
+C:\Users\1800190\source\repos\Athletico\Athletico\obj\Debug\netcoreapp2.1\Athletico.csproj.CoreCompileInputs.cache
+C:\Users\1800190\source\repos\Athletico\Athletico\obj\Debug\netcoreapp2.1\Athletico.RazorAssemblyInfo.cache
+C:\Users\1800190\source\repos\Athletico\Athletico\obj\Debug\netcoreapp2.1\Athletico.RazorAssemblyInfo.cs
+C:\Users\1800190\source\repos\Athletico\Athletico\obj\Debug\netcoreapp2.1\Athletico.AssemblyInfoInputs.cache
+C:\Users\1800190\source\repos\Athletico\Athletico\obj\Debug\netcoreapp2.1\Athletico.AssemblyInfo.cs
+C:\Users\1800190\source\repos\Athletico\Athletico\obj\Debug\netcoreapp2.1\Athletico.TagHelpers.input.cache
+C:\Users\1800190\source\repos\Athletico\Athletico\obj\Debug\netcoreapp2.1\Athletico.TagHelpers.output.cache
+C:\Users\1800190\source\repos\Athletico\Athletico\obj\Debug\netcoreapp2.1\Athletico.RazorCoreGenerate.cache
+C:\Users\1800190\source\repos\Athletico\Athletico\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\1800190\source\repos\Athletico\Athletico\obj\Debug\netcoreapp2.1\Athletico.RazorTargetAssemblyInfo.cache
+C:\Users\1800190\source\repos\Athletico\Athletico\obj\Debug\netcoreapp2.1\Athletico.RazorTargetAssemblyInfo.cs
